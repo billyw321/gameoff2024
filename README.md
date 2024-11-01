@@ -1,7 +1,7 @@
-# gameoff2024
-The Github repository for the Github Game Off 2024 Game Jam.
-Currently being worked on by Billy W. and Sion Y.
-Contact info: 
-Billy: williamweney03@gmail.com
-Sion: 
+# Game off 2024
+
+Currently being worked on by Billy and Sion.
+
+Link to the jam: https://itch.io/jam/game-off-2024
+
 Enjoy!  (^ w ^)
