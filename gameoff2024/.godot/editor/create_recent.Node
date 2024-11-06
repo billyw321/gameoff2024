@@ -1,0 +1,10 @@
+CollisionShape2D
+Area2D
+Node2D
+Camera2D
+Sprite2D
+CharacterBody2D
+WalkerGenerator
+TileMap
+TilemapGaeaRenderer
+NoiseGenerator
