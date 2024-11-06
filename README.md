@@ -1,5 +1,7 @@
 # Game off 2024
 
+## Credits
+
 Programming: Billy and Sion
 
 Artwork: Devin
