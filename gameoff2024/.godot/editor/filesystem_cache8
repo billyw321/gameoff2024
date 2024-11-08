@@ -1,6 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1731096092
-Main_Node.tscn::PackedScene::5552528458630047113::1731094661::0::1::::<><>::res://addons/gaea/modifiers/2D/modifier_2d.gd<>uid://b8m2cerde2rx1::::res://tileset/Dungeon tileset/ArtForWalker-GaeaTutorial.png<>res://addons/gaea/generators/2D/walker_generator/walker_generator.gd<>res://addons/gaea/modifiers/2D/fill.gd<>res://addons/gaea/renderers/2D/tilemap_gaea_renderer.gd<>res://addons/gaea/tile_info/tilemap_tile_info.gd<>res://addons/gaea/modifiers/2D/walls.gd<>res://addons/gaea/generators/2D/walker_generator/walker_generator_settings.gd<>uid://c2w75fgstejs::::res://player/player.tscn
+::res://::1731103659
+Main_Node.tscn::PackedScene::5552528458630047113::1731100178::0::1::::<><>::res://addons/gaea/modifiers/2D/modifier_2d.gd<>uid://b8m2cerde2rx1::::res://tileset/Dungeon tileset/ArtForWalker-GaeaTutorial.png<>res://addons/gaea/generators/2D/walker_generator/walker_generator.gd<>res://addons/gaea/modifiers/2D/fill.gd<>res://addons/gaea/renderers/2D/tilemap_gaea_renderer.gd<>res://addons/gaea/tile_info/tilemap_tile_info.gd<>res://addons/gaea/modifiers/2D/walls.gd<>res://addons/gaea/generators/2D/walker_generator/walker_generator_settings.gd<>uid://c2w75fgstejs::::res://player/player.tscn<>uid://d32obmfcdden8::::res://player/PLACEHOLDER.png
+player_spawn_area.tscn::PackedScene::5115779602639783433::1730750653::0::1::::<><>::
 ::res://addons/::1730654989
 ::res://addons/gaea/::1730654990
 grid.gd::GDScript::-1::1725039412::0::1::::GaeaGrid<>Resource<>::
@@ -122,11 +123,11 @@ random_tile_info.gd::GDScript::-1::1725039412::0::1::::RandomTileInfo<>TileInfo<
 tilemap_tile_info.gd::GDScript::-1::1725039412::0::1::::TilemapTileInfo<>TileInfo<>::
 tile_info.gd::GDScript::-1::1725039412::0::1::::TileInfo<>Resource<>res://addons/gaea/tile_info/tile_info.svg::
 tile_info.svg::CompressedTexture2D::2363771520064696099::1725039412::1730654994::1::::<><>::
-::res://player/::1731096092
+::res://player/::1731099759
 icon.svg::CompressedTexture2D::5113801667308841308::1730652726::1730698898::1::::<><>::
 PLACEHOLDER.png::CompressedTexture2D::9181140334095685939::1731096080::1731096092::1::::<><>::
-player.gd::GDScript::-1::1730933866::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::197510389603442316::1731094661::0::1::::<><>::res://player/player.gd<>uid://ce4ftiw3hr78c::::res://player/icon.svg
+player.gd::GDScript::-1::1731099757::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::197510389603442316::1731099759::0::1::::<><>::res://player/player.gd<>uid://ce4ftiw3hr78c::::res://player/icon.svg
 ::res://tileset/::1730655542
 ::res://tileset/Dungeon tileset/::1730697729
 ArtForTOPDOWN-GaeaTutorial.png::CompressedTexture2D::4535027467532634233::1730696264::1730696264::1::::<><>::
